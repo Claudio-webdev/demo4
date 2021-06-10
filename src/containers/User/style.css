@@ -1,0 +1,9 @@
+.cardUser{
+    position: relative;
+    border: 1px solid black;
+    text-align: center;
+    width: 400px;
+    height: 500px;
+    margin: 100px auto;
+    border-radius: 50px;
+}
